@@ -21,6 +21,8 @@
         android:text="@string/title1"
         android:textSize="50sp" />
 
+    <!-- I'm adding a comment in between as a git test -->
+
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="wrap_content"
